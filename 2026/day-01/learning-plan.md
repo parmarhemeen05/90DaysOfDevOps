@@ -1,0 +1,10 @@
+Current level:-I am a pre final year student of Bachelor of Enginnering pursuing with Computer Science and Engineering with Gujarat Technological University.I am passionate to learn devops and cloud services
+3 Goals for 90 days:-1.Want to upskill a new skill and learn a devops 2.To earn a AWS solution associate level certificate 3.To make a good and high end deployable project
+3 Core Skills of Devops:-1.Linux 2.Docker and Kubernetes 3.Amazon Web Services
+Allocate a weekly time budget:- 1.5-2 hours per day on weekdays,8-9 hours on weekends
+
+1).Devops:It is a culuture and practice that gaps between Development and Operation.It is a combination of two word Dev+Ops where Dev=Development of any thing like web,app is done and Ops=Operation where a deployment,production and monitoring is done.Devops is collaboration between Development team and Operation team.The work of devops is to make work fast,efficient and to use automation task and CI/CD in it.
+2).I am learning Devops and Cloud beacuse I want to make my carrer in it and my goal is to solve problem.I am learning cloud because my interest is in Cloud Service and want to know how service work,how it manage load and all other task in it.
+3).By completing 90 Days in Devops I want to gain knowledge of Python,Linux,Networking,Git/GitHub,Docker,Kubernetes,Cloud,Ansible,Terraform,Jira,GitLab Action.As well as i want to see my tech profile as Devops Engineer and to search a job role as a Devops Engineer.I aspire to build my DevOps career like Shubham Bhaiya, whose journey inspires me.
+My long-term vision is to secure a DevOps Engineer role similar to his, with strong technical foundations and real-world impact.By end of 90 days I also need to earn a AWS solution associate level certification.
+4).I will stay consistent every day by completing all 90days task,assignment and hand on practice in it.I will study everyday with 1.5-2 hours daily.It will motivate me to change my carrer and transform it in Devops Engineer.Whenever I feel demotivated, I will revisit my written goals to remind myself why I started it and my motivation, and continue moving forward and to learn all things in depth.
